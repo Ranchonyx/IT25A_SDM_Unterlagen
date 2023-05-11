@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5NouTG2kzN2Ar7IokducsR6xM8kTBWCsuIG5bGLzZ6f6IWkltEGNqB2S1XwnJ1VOniWK9IOwYK+/b4BqWPEYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\g079228\\source\\repos\\Pruefsummen\\Pruefsumme\\Pruefsumme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g079228\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

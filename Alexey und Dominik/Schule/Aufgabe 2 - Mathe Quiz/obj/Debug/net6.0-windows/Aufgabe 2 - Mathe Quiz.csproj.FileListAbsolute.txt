@@ -1,0 +1,17 @@
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\bin\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.exe
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\bin\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.deps.json
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\bin\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.runtimeconfig.json
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\bin\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.dll
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\bin\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.pdb
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.csproj.AssemblyReference.cache
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\Aufgabe_2___Mathe_Quiz.Form1.resources
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.csproj.GenerateResource.cache
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.AssemblyInfoInputs.cache
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.AssemblyInfo.cs
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.csproj.CoreCompileInputs.cache
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.dll
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\refint\Aufgabe 2 - Mathe Quiz.dll
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.pdb
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\Aufgabe 2 - Mathe Quiz.genruntimeconfig.cache
+C:\Users\104943\source\repos\Schule\Aufgabe 2 - Mathe Quiz\obj\Debug\net6.0-windows\ref\Aufgabe 2 - Mathe Quiz.dll

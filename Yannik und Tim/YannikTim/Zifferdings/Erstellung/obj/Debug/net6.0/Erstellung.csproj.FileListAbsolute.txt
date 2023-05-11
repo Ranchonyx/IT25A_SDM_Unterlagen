@@ -1,0 +1,15 @@
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\bin\Debug\net6.0\Erstellung.exe
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\bin\Debug\net6.0\Erstellung.deps.json
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\bin\Debug\net6.0\Erstellung.runtimeconfig.json
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\bin\Debug\net6.0\Erstellung.dll
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\bin\Debug\net6.0\Erstellung.pdb
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\obj\Debug\net6.0\Erstellung.csproj.AssemblyReference.cache
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\obj\Debug\net6.0\Erstellung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\obj\Debug\net6.0\Erstellung.AssemblyInfoInputs.cache
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\obj\Debug\net6.0\Erstellung.AssemblyInfo.cs
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\obj\Debug\net6.0\Erstellung.csproj.CoreCompileInputs.cache
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\obj\Debug\net6.0\Erstellung.dll
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\obj\Debug\net6.0\refint\Erstellung.dll
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\obj\Debug\net6.0\Erstellung.pdb
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\obj\Debug\net6.0\Erstellung.genruntimeconfig.cache
+C:\Users\ahren\source\repos\Zifferdings\Erstellung\obj\Debug\net6.0\ref\Erstellung.dll

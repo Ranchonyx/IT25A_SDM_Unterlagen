@@ -1,0 +1,17 @@
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\Aufgabe 3 - Matching Game.csproj.AssemblyReference.cache
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.Form1.resources
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\Aufgabe 3 - Matching Game.csproj.GenerateResource.cache
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\Aufgabe 3 - Matching Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\Aufgabe 3 - Matching Game.AssemblyInfoInputs.cache
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\Aufgabe 3 - Matching Game.AssemblyInfo.cs
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\Aufgabe 3 - Matching Game.csproj.CoreCompileInputs.cache
+C:\Users\104943\source\repos\Schule\MatchingGame\bin\Debug\net6.0-windows\Aufgabe 3 - Matching Game.exe
+C:\Users\104943\source\repos\Schule\MatchingGame\bin\Debug\net6.0-windows\Aufgabe 3 - Matching Game.deps.json
+C:\Users\104943\source\repos\Schule\MatchingGame\bin\Debug\net6.0-windows\Aufgabe 3 - Matching Game.runtimeconfig.json
+C:\Users\104943\source\repos\Schule\MatchingGame\bin\Debug\net6.0-windows\Aufgabe 3 - Matching Game.dll
+C:\Users\104943\source\repos\Schule\MatchingGame\bin\Debug\net6.0-windows\Aufgabe 3 - Matching Game.pdb
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\Aufgabe 3 - Matching Game.dll
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\refint\Aufgabe 3 - Matching Game.dll
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\Aufgabe 3 - Matching Game.pdb
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\Aufgabe 3 - Matching Game.genruntimeconfig.cache
+C:\Users\104943\source\repos\Schule\MatchingGame\obj\Debug\net6.0-windows\ref\Aufgabe 3 - Matching Game.dll

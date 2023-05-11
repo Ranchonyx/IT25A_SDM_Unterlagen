@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gss+PSVssEOSU3hu/K+ZEwzUBDKXNWCYBLMQDJGDP1pMC8zJuWFuddlF0amI5U0KVBWqJ4iwys8i7/KIYoPDlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\g065717\\Drive Merkur.works\\source\\repos\\Pruefziffer\\Pruefziffer\\Pruefziffer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g065717\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\g065717\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\g065717\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\g065717\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\g065717\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

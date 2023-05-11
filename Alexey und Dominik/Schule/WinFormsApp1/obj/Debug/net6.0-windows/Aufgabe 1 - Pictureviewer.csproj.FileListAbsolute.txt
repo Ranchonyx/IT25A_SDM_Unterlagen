@@ -1,0 +1,8 @@
+C:\Users\104943\source\repos\Schule\WinFormsApp1\obj\Debug\net6.0-windows\Aufgabe 1 - Pictureviewer.csproj.AssemblyReference.cache
+C:\Users\104943\source\repos\Schule\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\104943\source\repos\Schule\WinFormsApp1\obj\Debug\net6.0-windows\Aufgabe_1_-_Pictureviewer.Properties.Resources.resources
+C:\Users\104943\source\repos\Schule\WinFormsApp1\obj\Debug\net6.0-windows\Aufgabe 1 - Pictureviewer.csproj.GenerateResource.cache
+C:\Users\104943\source\repos\Schule\WinFormsApp1\obj\Debug\net6.0-windows\Aufgabe 1 - Pictureviewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\104943\source\repos\Schule\WinFormsApp1\obj\Debug\net6.0-windows\Aufgabe 1 - Pictureviewer.AssemblyInfoInputs.cache
+C:\Users\104943\source\repos\Schule\WinFormsApp1\obj\Debug\net6.0-windows\Aufgabe 1 - Pictureviewer.AssemblyInfo.cs
+C:\Users\104943\source\repos\Schule\WinFormsApp1\obj\Debug\net6.0-windows\Aufgabe 1 - Pictureviewer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aufgabe 2 - Mathe Quiz/1.0.0": {
+        "runtime": {
+          "Aufgabe 2 - Mathe Quiz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aufgabe 2 - Mathe Quiz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

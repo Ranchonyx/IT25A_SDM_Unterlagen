@@ -1,0 +1,16 @@
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\bin\Debug\net5.0\Zifferdings.exe
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\bin\Debug\net5.0\Zifferdings.deps.json
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\bin\Debug\net5.0\Zifferdings.runtimeconfig.json
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\bin\Debug\net5.0\Zifferdings.runtimeconfig.dev.json
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\bin\Debug\net5.0\Zifferdings.dll
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\bin\Debug\net5.0\Zifferdings.pdb
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\obj\Debug\net5.0\Zifferdings.csproj.AssemblyReference.cache
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\obj\Debug\net5.0\Zifferdings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\obj\Debug\net5.0\Zifferdings.AssemblyInfoInputs.cache
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\obj\Debug\net5.0\Zifferdings.AssemblyInfo.cs
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\obj\Debug\net5.0\Zifferdings.csproj.CoreCompileInputs.cache
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\obj\Debug\net5.0\Zifferdings.dll
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\obj\Debug\net5.0\ref\Zifferdings.dll
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\obj\Debug\net5.0\Zifferdings.pdb
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\obj\Debug\net5.0\Zifferdings.genruntimeconfig.cache
+C:\Users\ahren\source\repos\Zifferdings\Zifferdings\obj\Debug\net5.0\refint\Zifferdings.dll

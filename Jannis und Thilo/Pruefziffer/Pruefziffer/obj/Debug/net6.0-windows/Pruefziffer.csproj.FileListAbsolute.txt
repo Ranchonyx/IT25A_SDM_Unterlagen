@@ -1,0 +1,17 @@
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\Pruefziffer.csproj.AssemblyReference.cache
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\Pruefziffer.csproj.GenerateResource.cache
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\Pruefziffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\Pruefziffer.AssemblyInfoInputs.cache
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\Pruefziffer.AssemblyInfo.cs
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\Pruefziffer.csproj.CoreCompileInputs.cache
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\bin\Debug\net6.0-windows\Pruefziffer.exe
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\bin\Debug\net6.0-windows\Pruefziffer.deps.json
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\bin\Debug\net6.0-windows\Pruefziffer.runtimeconfig.json
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\bin\Debug\net6.0-windows\Pruefziffer.dll
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\bin\Debug\net6.0-windows\Pruefziffer.pdb
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\Pruefziffer.dll
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\refint\Pruefziffer.dll
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\Pruefziffer.pdb
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\Pruefziffer.genruntimeconfig.cache
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\ref\Pruefziffer.dll
+C:\Users\g065717\Drive Merkur.works\source\repos\Pruefziffer\Pruefziffer\obj\Debug\net6.0-windows\Pruefziffer.Pruefziffer.resources

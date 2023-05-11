@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Checksum_": {
+      "commandName": "Project",
+      "commandLineArgs": "selfdestruct"
+    }
+  }
+}

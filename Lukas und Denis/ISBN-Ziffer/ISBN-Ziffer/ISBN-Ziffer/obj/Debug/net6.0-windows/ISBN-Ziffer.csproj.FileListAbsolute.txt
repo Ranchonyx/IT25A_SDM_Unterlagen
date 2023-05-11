@@ -1,0 +1,17 @@
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\bin\Debug\net6.0-windows\ISBN-Ziffer.exe
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\bin\Debug\net6.0-windows\ISBN-Ziffer.deps.json
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\bin\Debug\net6.0-windows\ISBN-Ziffer.runtimeconfig.json
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\bin\Debug\net6.0-windows\ISBN-Ziffer.dll
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\bin\Debug\net6.0-windows\ISBN-Ziffer.pdb
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ISBN-Ziffer.csproj.AssemblyReference.cache
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ISBN_Ziffer.Form1.resources
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ISBN-Ziffer.csproj.GenerateResource.cache
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ISBN-Ziffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ISBN-Ziffer.AssemblyInfoInputs.cache
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ISBN-Ziffer.AssemblyInfo.cs
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ISBN-Ziffer.csproj.CoreCompileInputs.cache
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ISBN-Ziffer.dll
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\refint\ISBN-Ziffer.dll
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ISBN-Ziffer.pdb
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ISBN-Ziffer.genruntimeconfig.cache
+C:\Users\D_koo\source\repos\Dkoop93\Angebotsvergleich\ISBN-Ziffer\ISBN-Ziffer\obj\Debug\net6.0-windows\ref\ISBN-Ziffer.dll

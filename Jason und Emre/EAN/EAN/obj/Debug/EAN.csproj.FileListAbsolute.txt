@@ -1,0 +1,15 @@
+C:\Users\jvoigt\source\repos\EAN\bin\Debug\EAN.exe.config
+C:\Users\jvoigt\source\repos\EAN\bin\Debug\EAN.exe
+C:\Users\jvoigt\source\repos\EAN\bin\Debug\EAN.pdb
+C:\Users\jvoigt\source\repos\EAN\obj\Debug\EAN.csproj.AssemblyReference.cache
+C:\Users\jvoigt\source\repos\EAN\obj\Debug\EAN.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvoigt\source\repos\EAN\obj\Debug\EAN.csproj.CoreCompileInputs.cache
+C:\Users\jvoigt\source\repos\EAN\obj\Debug\EAN.exe
+C:\Users\jvoigt\source\repos\EAN\obj\Debug\EAN.pdb
+C:\Users\jvoigt\source\repos\EAN\bin\Debug\System.Drawing.Common.dll
+C:\Users\jvoigt\source\repos\EAN\bin\Debug\zxing.dll
+C:\Users\jvoigt\source\repos\EAN\bin\Debug\zxing.presentation.dll
+C:\Users\jvoigt\source\repos\EAN\bin\Debug\System.Drawing.Common.xml
+C:\Users\jvoigt\source\repos\EAN\bin\Debug\zxing.xml
+C:\Users\jvoigt\source\repos\EAN\bin\Debug\zxing.presentation.xml
+C:\Users\jvoigt\source\repos\EAN\obj\Debug\EAN.csproj.CopyComplete

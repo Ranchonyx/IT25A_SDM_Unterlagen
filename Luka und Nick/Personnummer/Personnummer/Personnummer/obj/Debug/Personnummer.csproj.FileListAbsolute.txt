@@ -1,0 +1,8 @@
+C:\Users\g079229\source\repos\Personnummer\Personnummer\bin\Debug\Personnummer.exe.config
+C:\Users\g079229\source\repos\Personnummer\Personnummer\bin\Debug\Personnummer.exe
+C:\Users\g079229\source\repos\Personnummer\Personnummer\bin\Debug\Personnummer.pdb
+C:\Users\g079229\source\repos\Personnummer\Personnummer\obj\Debug\Personnummer.csproj.AssemblyReference.cache
+C:\Users\g079229\source\repos\Personnummer\Personnummer\obj\Debug\Personnummer.csproj.SuggestedBindingRedirects.cache
+C:\Users\g079229\source\repos\Personnummer\Personnummer\obj\Debug\Personnummer.csproj.CoreCompileInputs.cache
+C:\Users\g079229\source\repos\Personnummer\Personnummer\obj\Debug\Personnummer.exe
+C:\Users\g079229\source\repos\Personnummer\Personnummer\obj\Debug\Personnummer.pdb
